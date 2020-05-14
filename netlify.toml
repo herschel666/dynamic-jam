@@ -1,0 +1,10 @@
+[build]
+  functions = "site"
+  publish = "static"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/app"
+  status = 200
+  force = false
+

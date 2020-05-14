@@ -1,0 +1,17 @@
+{
+  "name": "dynamic-jam",
+  "version": "0.1.0",
+  "description": "Case-study demonstrating how to mix static & dynamic HTML contents with Netlify Functions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "ntl dev",
+    "deploy": "netlify deploy",
+    "deploy:prod": "netlify deploy --prod"
+  },
+  "author": "Emanuel Kluge",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^2.51.0",
+    "prettier": "^2.0.5"
+  }
+}

@@ -1,0 +1,12 @@
+body {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.8), 0 2px 0 rgba(0, 0, 0, 0.6),
+    0 3px 0 rgba(0, 0, 0, 0.4);
+}
+
+.nav::after {
+  content: ' ∙ ';
+}
+
+.nav:last-of-type::after {
+  content: '';
+}
