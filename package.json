@@ -12,6 +12,6 @@
   "license": "MIT",
   "devDependencies": {
     "netlify-cli": "2.59.1",
-    "prettier": "2.0.5"
+    "prettier": "2.1.0"
   }
 }
