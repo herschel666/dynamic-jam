@@ -11,7 +11,7 @@
   "author": "Emanuel Kluge",
   "license": "MIT",
   "devDependencies": {
-    "netlify-cli": "2.63.3",
+    "netlify-cli": "2.64.0",
     "prettier": "2.1.2"
   }
 }
